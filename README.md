@@ -542,8 +542,8 @@ top-level attributes: `fill`, `font`, `numFmt`, `alignment`, and `border`.
 
 
 | Style Attribute | Sub Attributes | Values |
-| :-------------- | :------------- | :------------- | :----- |
-| fill            | patternType    |  `"solid"` or `"none"` |
+| :-------------- | :------------- | :------------- | 
+| fill            | patternType    |  `"solid"` or `"none"`
 |                 | fgColor        |  `COLOR_SPEC`
 |                 | bgColor        |  `COLOR_SPEC`
 | font            | name           |  `"Calibri"` // default
